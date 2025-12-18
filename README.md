@@ -3,8 +3,11 @@ Hi there 👋
 
 🔭 I’m currently a university studnet studying software engineering
 
-
+currently learning
 [![currently learning](https://skillicons.dev/icons?i=python,html,blender)](https://skillicons.dev)
+
+--------
+future goals
 [![future goals](https://skillicons.dev/icons?i=js,cpp)](https://skillicons.dev)
 
 
