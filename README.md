@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**Joannakap123/Joannakap123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🔭 I’m currently a university studnet studying software engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![currently learning](https://skillicons.dev/icons?i=python,html,blender)](https://skillicons.dev)
+[![future goals](https://skillicons.dev/icons?i=js,cpp)](https://skillicons.dev)
+
+
+
+📫 How to reach me: joannakapala@icloud.com or https://www.linkedin.com/in/joanna-kapala-5aa414286/
+
+
