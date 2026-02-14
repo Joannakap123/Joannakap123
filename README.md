@@ -1,15 +1,12 @@
 Hi there 👋
 
 
-🔭 I’m currently a university studnet studying software engineering
+🔭 I’m currently a university student studying software engineering
 
 currently learning
-[![currently learning](https://skillicons.dev/icons?i=python,html,blender)](https://skillicons.dev)
+[![currently learning](https://skillicons.dev/icons?i=python,html,css,js)](https://skillicons.dev)
 
 --------
-future goals
-[![future goals](https://skillicons.dev/icons?i=js,cpp)](https://skillicons.dev)
-
 
 
 📫 How to reach me: joannakapala@icloud.com or https://www.linkedin.com/in/joanna-kapala-5aa414286/
